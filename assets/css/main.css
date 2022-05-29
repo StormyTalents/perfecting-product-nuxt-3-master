@@ -1,0 +1,88 @@
+@font-face {
+    font-family: 'Source Code Pro';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url('~assets/fonts/source-code-pro-v14-latin-300.woff') format('truetype');
+}
+
+@font-face {
+    font-family: 'Source Code Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('~assets/fonts/source-code-pro-v14-latin-400.woff') format('truetype');
+}
+  
+@font-face {
+    font-family: 'Source Code Pro';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url('~assets/fonts/source-code-pro-v14-latin-500.woff') format('truetype');
+}
+  
+@font-face {
+    font-family: 'Source Code Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url('~assets/fonts/source-code-pro-v14-latin-600.woff') format('truetype');
+}
+  
+@font-face {
+    font-family: 'Source Code Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url('~assets/fonts/source-code-pro-v14-latin-700.woff') format('truetype');
+}
+  
+@font-face {
+    font-family: 'Source Code Pro';
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url('~assets/fonts/source-code-pro-v14-latin-900.woff') format('truetype');
+}
+
+@font-face {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url('~assets/fonts/public-sans-v7-latin-300.woff') format('truetype');
+}
+
+@font-face {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('~assets/fonts/public-sans-v7-latin-regular.woff') format('truetype');
+}
+
+@font-face {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url('~assets/fonts/public-sans-v7-latin-500.woff') format('truetype');
+}
+
+@font-face {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url('~assets/fonts/public-sans-v7-latin-600.woff') format('truetype');
+}
+
+@font-face {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url('~assets/fonts/public-sans-v7-latin-700.woff') format('truetype');
+}
+
